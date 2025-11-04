@@ -30,4 +30,5 @@ export default function PostList({ posts, user, onEdit, onDelete, onUpdate, edit
       ))}
     </ul>
   )
+
 }
